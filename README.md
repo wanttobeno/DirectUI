@@ -1,12 +1,13 @@
 DirectUI
 ========
+DuiLib的前辈作品，学习DirectUI的原理的最佳例子
 
 forked from Bjarke Viksoe`s greate job http://www.viksoe.dk/code/windowless1.htm
 
 
 ## extended version
 
-maintained by DuiLib group http://code.google.com/p/duilib
+maintained by DuiLib group https://github.com/duilib/duilib
 
 
 ## Build
@@ -15,13 +16,13 @@ maintained by DuiLib group http://code.google.com/p/duilib
 
 * Download DirectX SDK http://www.microsoft.com/download/en/details.aspx?id=6812
 
-![ScreenShot](https://raw.github.com/xiangzhai/DirectUI/master/doc/directx.png)
+![ScreenShot](doc/directx.png)
 
 * Tools -> Options -> Directories
 
-![ScreenShot](https://raw.github.com/xiangzhai/DirectUI/master/doc/directx_include.png)
+![ScreenShot](doc/directx_include.png)
 
-![ScreenShot](https://raw.github.com/xiangzhai/DirectUI/master/doc/directx_lib.png)
+![ScreenShot](doc/directx_lib.png)
 
 
 ### VS2005 (have not tried yet)
@@ -39,7 +40,7 @@ make
 
 ### AppTest
 
-![ScreenShot](https://raw.github.com/xiangzhai/DirectUI/master/doc/apptest.png)
+![ScreenShot](doc/apptest.png)
 
 
 ## CodeProject Article
